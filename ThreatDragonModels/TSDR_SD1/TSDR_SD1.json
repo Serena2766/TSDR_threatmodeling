@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "TSDR_SD1"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "sd",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
